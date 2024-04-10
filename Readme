@@ -1,0 +1,7 @@
+- The car data set we will be using in this lab is provided as a comma-separated file without a header row.
+ - The data consists of 205 rows
+ - 15 numeric_feature_names
+ - 10 categorical_feature_names
+-  For each column to have a meaningful header name is provided.
+- Header 'price' is the target feature (y-axis)
+- This is a Google Colab file (.ipynb) which you can run by going to this website https://colab.google. From the colab website, you can also download this file as .py to run locally in your desired IDE, all dependencies need to install to make the code work properly.
